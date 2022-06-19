@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Pagamento\bin\Debug\net6.0\Pagamento.exe
+D:\VSCODE Exercicios\Pagamento\bin\Debug\net6.0\Pagamento.deps.json
+D:\VSCODE Exercicios\Pagamento\bin\Debug\net6.0\Pagamento.runtimeconfig.json
+D:\VSCODE Exercicios\Pagamento\bin\Debug\net6.0\Pagamento.dll
+D:\VSCODE Exercicios\Pagamento\bin\Debug\net6.0\Pagamento.pdb
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.AssemblyInfo.cs
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.dll
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\refint\Pagamento.dll
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.pdb
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\Pagamento.genruntimeconfig.cache
+D:\VSCODE Exercicios\Pagamento\obj\Debug\net6.0\ref\Pagamento.dll

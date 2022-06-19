@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Medidas\bin\Debug\net6.0\Medidas.exe
+D:\VSCODE Exercicios\Medidas\bin\Debug\net6.0\Medidas.deps.json
+D:\VSCODE Exercicios\Medidas\bin\Debug\net6.0\Medidas.runtimeconfig.json
+D:\VSCODE Exercicios\Medidas\bin\Debug\net6.0\Medidas.dll
+D:\VSCODE Exercicios\Medidas\bin\Debug\net6.0\Medidas.pdb
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.AssemblyInfo.cs
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.dll
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\refint\Medidas.dll
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.pdb
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\Medidas.genruntimeconfig.cache
+D:\VSCODE Exercicios\Medidas\obj\Debug\net6.0\ref\Medidas.dll

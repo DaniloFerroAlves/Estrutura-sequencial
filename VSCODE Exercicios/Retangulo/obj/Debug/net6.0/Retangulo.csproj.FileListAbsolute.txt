@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Retangulo\bin\Debug\net6.0\Retangulo.exe
+D:\VSCODE Exercicios\Retangulo\bin\Debug\net6.0\Retangulo.deps.json
+D:\VSCODE Exercicios\Retangulo\bin\Debug\net6.0\Retangulo.runtimeconfig.json
+D:\VSCODE Exercicios\Retangulo\bin\Debug\net6.0\Retangulo.dll
+D:\VSCODE Exercicios\Retangulo\bin\Debug\net6.0\Retangulo.pdb
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfo.cs
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.dll
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\refint\Retangulo.dll
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.pdb
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\Retangulo.genruntimeconfig.cache
+D:\VSCODE Exercicios\Retangulo\obj\Debug\net6.0\ref\Retangulo.dll

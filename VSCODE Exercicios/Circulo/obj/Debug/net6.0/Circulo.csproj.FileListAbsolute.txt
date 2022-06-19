@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Circulo\bin\Debug\net6.0\Circulo.exe
+D:\VSCODE Exercicios\Circulo\bin\Debug\net6.0\Circulo.deps.json
+D:\VSCODE Exercicios\Circulo\bin\Debug\net6.0\Circulo.runtimeconfig.json
+D:\VSCODE Exercicios\Circulo\bin\Debug\net6.0\Circulo.dll
+D:\VSCODE Exercicios\Circulo\bin\Debug\net6.0\Circulo.pdb
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.AssemblyInfo.cs
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.dll
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\refint\Circulo.dll
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.pdb
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\Circulo.genruntimeconfig.cache
+D:\VSCODE Exercicios\Circulo\obj\Debug\net6.0\ref\Circulo.dll

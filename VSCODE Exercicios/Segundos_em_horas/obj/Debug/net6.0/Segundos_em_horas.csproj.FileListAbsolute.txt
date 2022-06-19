@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Segundos_em_horas\bin\Debug\net6.0\Segundos_em_horas.exe
+D:\VSCODE Exercicios\Segundos_em_horas\bin\Debug\net6.0\Segundos_em_horas.deps.json
+D:\VSCODE Exercicios\Segundos_em_horas\bin\Debug\net6.0\Segundos_em_horas.runtimeconfig.json
+D:\VSCODE Exercicios\Segundos_em_horas\bin\Debug\net6.0\Segundos_em_horas.dll
+D:\VSCODE Exercicios\Segundos_em_horas\bin\Debug\net6.0\Segundos_em_horas.pdb
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.AssemblyInfo.cs
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.dll
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\refint\Segundos_em_horas.dll
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.pdb
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\Segundos_em_horas.genruntimeconfig.cache
+D:\VSCODE Exercicios\Segundos_em_horas\obj\Debug\net6.0\ref\Segundos_em_horas.dll

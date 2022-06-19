@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Troco\bin\Debug\net6.0\Troco.exe
+D:\VSCODE Exercicios\Troco\bin\Debug\net6.0\Troco.deps.json
+D:\VSCODE Exercicios\Troco\bin\Debug\net6.0\Troco.runtimeconfig.json
+D:\VSCODE Exercicios\Troco\bin\Debug\net6.0\Troco.dll
+D:\VSCODE Exercicios\Troco\bin\Debug\net6.0\Troco.pdb
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.AssemblyInfo.cs
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.dll
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\refint\Troco.dll
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.pdb
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\Troco.genruntimeconfig.cache
+D:\VSCODE Exercicios\Troco\obj\Debug\net6.0\ref\Troco.dll

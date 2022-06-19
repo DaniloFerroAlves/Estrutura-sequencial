@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Gasolina\bin\Debug\net6.0\Gasolina.exe
+D:\VSCODE Exercicios\Gasolina\bin\Debug\net6.0\Gasolina.deps.json
+D:\VSCODE Exercicios\Gasolina\bin\Debug\net6.0\Gasolina.runtimeconfig.json
+D:\VSCODE Exercicios\Gasolina\bin\Debug\net6.0\Gasolina.dll
+D:\VSCODE Exercicios\Gasolina\bin\Debug\net6.0\Gasolina.pdb
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.AssemblyInfo.cs
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.dll
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\refint\Gasolina.dll
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.pdb
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\Gasolina.genruntimeconfig.cache
+D:\VSCODE Exercicios\Gasolina\obj\Debug\net6.0\ref\Gasolina.dll

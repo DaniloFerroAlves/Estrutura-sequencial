@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Idades\bin\Debug\net6.0\Idades.exe
+D:\VSCODE Exercicios\Idades\bin\Debug\net6.0\Idades.deps.json
+D:\VSCODE Exercicios\Idades\bin\Debug\net6.0\Idades.runtimeconfig.json
+D:\VSCODE Exercicios\Idades\bin\Debug\net6.0\Idades.dll
+D:\VSCODE Exercicios\Idades\bin\Debug\net6.0\Idades.pdb
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.AssemblyInfo.cs
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.dll
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\refint\Idades.dll
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.pdb
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\Idades.genruntimeconfig.cache
+D:\VSCODE Exercicios\Idades\obj\Debug\net6.0\ref\Idades.dll

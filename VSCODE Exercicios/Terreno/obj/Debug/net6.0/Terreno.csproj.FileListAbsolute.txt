@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Terreno\bin\Debug\net6.0\Terreno.exe
+D:\VSCODE Exercicios\Terreno\bin\Debug\net6.0\Terreno.deps.json
+D:\VSCODE Exercicios\Terreno\bin\Debug\net6.0\Terreno.runtimeconfig.json
+D:\VSCODE Exercicios\Terreno\bin\Debug\net6.0\Terreno.dll
+D:\VSCODE Exercicios\Terreno\bin\Debug\net6.0\Terreno.pdb
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.AssemblyInfo.cs
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.dll
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\refint\Terreno.dll
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.pdb
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\Terreno.genruntimeconfig.cache
+D:\VSCODE Exercicios\Terreno\obj\Debug\net6.0\ref\Terreno.dll

@@ -1,0 +1,15 @@
+D:\VSCODE Exercicios\Soma\bin\Debug\net6.0\Soma.exe
+D:\VSCODE Exercicios\Soma\bin\Debug\net6.0\Soma.deps.json
+D:\VSCODE Exercicios\Soma\bin\Debug\net6.0\Soma.runtimeconfig.json
+D:\VSCODE Exercicios\Soma\bin\Debug\net6.0\Soma.dll
+D:\VSCODE Exercicios\Soma\bin\Debug\net6.0\Soma.pdb
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.csproj.AssemblyReference.cache
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.AssemblyInfoInputs.cache
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.AssemblyInfo.cs
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.csproj.CoreCompileInputs.cache
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.dll
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\refint\Soma.dll
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.pdb
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\Soma.genruntimeconfig.cache
+D:\VSCODE Exercicios\Soma\obj\Debug\net6.0\ref\Soma.dll
